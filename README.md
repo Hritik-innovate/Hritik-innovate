@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hritik Bharadwaj</h1>
+<h1 align="center">Hi 👋, I'm Hritik Bhardwaj</h1>
 <h3 align="center">A passionate Developer & Tech Enthusiast from India</h3>
 
 <p align="center">
