@@ -21,7 +21,7 @@ What I Do Best:
 
 🔧 Technical Toolkit:
 
-→ Languages: C, C++, Html, CSS, Java, Python, React.JS, PHP
+→ Languages: C, C++, C#, Html, CSS, Python, React.JS, PHP
 → Technologies: IoT, Android Dev, Cloud Computing
 → Currently Exploring: AI/ML, DevOps, Open-Source Contributions
 
